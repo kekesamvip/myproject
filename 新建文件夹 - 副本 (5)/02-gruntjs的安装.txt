@@ -1,0 +1,23 @@
+http://www.gruntjs.net/
+
+
+npm install -g grunt-cli
+
+
+第二部：切换到你的工程的目录：cd> E:\我的nodejs之路\gruntProject
+
+第三部：在当前目录下安装grunt输入命令： 
+
+npm install grunt --save-dev
+
+
+/*html压缩moduble安装*/
+npm i html-minifier
+/*监听*/
+npm install grunt-contrib-watch --save-dev
+
+
+http://git-scm.com/download/win
+http://bower.io
+https://tortoisegit.org/download/
+http://my.oschina.net/longxuu/blog/141699
